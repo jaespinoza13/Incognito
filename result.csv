@@ -1,201 +1,30 @@
-,id,name,manner_of_death,armed,age,gender,race,state,signs_of_mental_illness,threat_level,flee,date_month,date_day,date_year
-0,1,Tim Elliot,shot,gun,53.0,M,Non-Black,West,True,attack,Not fleeing,1,2,2015~2020
-1,2,Lewis Lee Lembke,shot,gun,47.0,M,Non-Black,West,False,attack,Not fleeing,1,2,2015~2020
-2,3,John Paul Quintero,shot and Tasered,unarmed,23.0,M,Non-Black,Midwest,False,other,Not fleeing,1,3,2015~2020
-3,4,Matthew Hoffman,shot,toy weapon,32.0,M,Non-Black,West,True,attack,Not fleeing,1,4,2015~2020
-4,5,Michael Rodriguez,shot,nail gun,39.0,M,Non-Black,West,False,attack,Not fleeing,1,4,2015~2020
-5,6,Kenneth Joe Brown,shot,gun,18.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,4,2015~2020
-6,7,Kenneth Arnold Buck,shot,gun,22.0,M,Non-Black,West,False,attack,Car,1,5,2015~2020
-7,8,Brock Nichols,shot,gun,35.0,M,Non-Black,Midwest,False,attack,Not fleeing,1,6,2015~2020
-8,9,Autumn Steele,shot,unarmed,34.0,F,Non-Black,Midwest,False,other,Not fleeing,1,6,2015~2020
-9,10,Leslie Sapp III,shot,toy weapon,47.0,M,Black,Northeast,False,attack,Not fleeing,1,6,2015~2020
-10,11,Patrick Wetter,shot and Tasered,knife,25.0,M,Non-Black,West,False,attack,Not fleeing,1,6,2015~2020
-11,12,Ron Sneed,shot,gun,31.0,M,Black,Southwest,False,attack,Not fleeing,1,7,2015~2020
-12,13,Hashim Hanif Ibn Abdul-Rasheed,shot,knife,41.0,M,Black,Midwest,True,other,Not fleeing,1,7,2015~2020
-13,14,Nicholas Ryan Brickman,shot,gun,30.0,M,Non-Black,Midwest,False,attack,Car,1,7,2015~2020
-14,15,Omarr Julian Maximillian Jackson,shot,gun,37.0,M,Black,Southwest,False,attack,Foot,1,7,2015~2020
-15,16,Loren Simpson,shot,,28.0,M,Non-Black,West,False,undetermined,Not fleeing,1,8,2015~2020
-16,17,James Dudley Barker,shot,shovel,42.0,M,Non-Black,West,False,attack,Not fleeing,1,8,2015~2020
-17,18,Artago Damon Howard,shot,unarmed,36.0,M,Black,Southwest,False,attack,Not fleeing,1,8,2015~2020
-18,19,Thomas Hamby,shot,gun,49.0,M,Non-Black,West,False,attack,Not fleeing,1,8,2015~2020
-19,20,Jimmy Foreman,shot,gun,71.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,9,2015~2020
-20,21,Andy Martinez,shot,gun,33.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,9,2015~2020
-21,22,Tommy Smith,shot,gun,39.0,M,Non-Black,Midwest,True,attack,Not fleeing,1,11,2015~2020
-22,23,Brian  Barbosa,shot,gun,23.0,M,Non-Black,West,False,attack,Not fleeing,1,11,2015~2020
-23,24,Salvador Figueroa,shot and Tasered,gun,29.0,M,Non-Black,West,False,attack,Foot,1,11,2015~2020
-24,25,John Edward O'Keefe,shot,gun,34.0,M,Non-Black,West,False,attack,Foot,1,13,2015~2020
-25,26,Richard McClendon,shot,knife,43.0,M,Non-Black,Southwest,True,other,Not fleeing,1,13,2015~2020
-26,27,Marcus Golden,shot,,24.0,M,Black,Midwest,False,attack,Not fleeing,1,14,2015~2020
-27,28,Michael Goebel,shot,,29.0,M,Non-Black,Midwest,False,attack,Not fleeing,1,14,2015~2020
-28,29,Mario Jordan,shot,gun,34.0,M,Black,Southeast,True,attack,Not fleeing,1,14,2015~2020
-29,30,Talbot Schroeder,shot,knife,75.0,M,Non-Black,Northeast,False,attack,Not fleeing,1,14,2015~2020
-30,31,Robert Edwards,shot,gun,68.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,14,2015~2020
-31,32,Jeffrey R. Nielson,shot,knife,34.0,M,Non-Black,West,False,attack,Not fleeing,1,14,2015~2020
-32,33,Donte Sowell,shot,gun,27.0,M,Black,Midwest,False,attack,Foot,1,15,2015~2020
-33,34,Kavonda Earl Payton,shot,gun,39.0,M,Black,West,False,attack,Not fleeing,1,15,2015~2020
-34,35,Quincy Reed Reindl,shot,gun,24.0,M,Non-Black,Midwest,True,attack,Not fleeing,1,15,2015~2020
-35,36,Jose Ceja,shot,knife,36.0,M,Non-Black,West,True,other,Not fleeing,1,15,2015~2020
-36,37,Nathan Massey,shot,gun,33.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,15,2015~2020
-37,38,Scott Hall,shot,gun,41.0,M,Non-Black,Southwest,False,attack,Car,1,16,2015~2020
-38,39,Zaki Shinwary,shot and Tasered,knife,48.0,M,Non-Black,West,False,other,Not fleeing,1,16,2015~2020
-39,40,Terence Walker,shot,gun,21.0,M,Black,Southwest,False,attack,Foot,1,17,2015~2020
-40,41,Pablo Meza,shot,gun,24.0,M,Non-Black,West,False,attack,Not fleeing,1,17,2015~2020
-41,42,Daniel Brumley,shot,knife,27.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,17,2015~2020
-42,43,Jonathan Guillory,shot,gun,32.0,M,Non-Black,West,True,attack,Not fleeing,1,18,2015~2020
-43,44,Carter Castle,shot and Tasered,gun,67.0,M,Non-Black,Southeast,True,attack,Not fleeing,1,18,2015~2020
-44,45,Paul Campbell,shot,knife,49.0,M,Non-Black,Northeast,False,attack,Not fleeing,1,19,2015~2020
-45,46,Dewayne Carr,shot,,42.0,M,Black,West,False,other,Car,1,20,2015~2020
-46,47,Todd Allen Hodge,shot,gun,36.0,M,Non-Black,West,False,attack,Not fleeing,1,21,2015~2020
-47,48,Miguel Angel de Santos-Rodriguez,shot,gun,36.0,M,Non-Black,Southwest,False,attack,Foot,1,21,2015~2020
-48,49,Isaac Holmes,shot,gun,19.0,M,Black,Midwest,False,attack,Not fleeing,1,21,2015~2020
-49,50,Andrew Toto,shot,gun,54.0,M,Non-Black,Northeast,True,attack,Not fleeing,1,21,2015~2020
-50,51,Tiano Meton,shot,toy weapon,25.0,M,Black,Southwest,False,attack,Car,1,22,2015~2020
-51,52,Kristiana Coignard,shot and Tasered,knife,17.0,F,Non-Black,Southwest,True,other,Not fleeing,1,22,2015~2020
-52,53,Demaris Turner,shot,,29.0,M,Black,Southeast,False,other,Not fleeing,1,23,2015~2020
-53,54,Jose Antonio Espinoza Ruiz,shot,knife,56.0,M,Non-Black,Southwest,False,other,Not fleeing,1,23,2015~2020
-54,55,Robert Francis Mesch,shot,gun,61.0,M,Non-Black,Southwest,True,attack,Not fleeing,1,23,2015~2020
-55,56,Daryl Myler,shot,gun,45.0,M,Non-Black,West,False,attack,Not fleeing,1,24,2015~2020
-56,57,Darin Hutchins,shot,knife,26.0,M,Black,Northeast,True,other,Not fleeing,1,24,2015~2020
-57,58,Wendell King,shot,gun,40.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,24,2015~2020
-58,59,Orlando Jude Lopez,shot,gun,26.0,M,Non-Black,West,False,attack,Car,1,25,2015~2020
-59,60,William Campbell,shot,gun,59.0,M,,Northeast,False,attack,Not fleeing,1,25,2015~2020
-60,61,Jessie Hernandez,shot,vehicle,17.0,F,Non-Black,West,False,other,Not fleeing,1,26,2015~2020
-61,62,Raymond Kmetz,shot,gun,68.0,M,Non-Black,Midwest,True,attack,Not fleeing,1,26,2015~2020
-62,63,Joshua Omar Garcia,shot,unarmed,24.0,M,Non-Black,Southwest,False,other,Car,1,26,2015~2020
-63,64,David Garcia,shot,knife,34.0,M,Non-Black,West,True,other,Not fleeing,1,26,2015~2020
-64,65,Tiffany Terry,shot,knife,39.0,F,Non-Black,Midwest,True,attack,Not fleeing,1,27,2015~2020
-65,66,Nicolas Leland Tewa,shot,,26.0,M,Non-Black,West,False,other,Not fleeing,1,27,2015~2020
-66,67,Chris Ingram,shot,gun,29.0,M,Non-Black,West,False,attack,Not fleeing,1,27,2015~2020
-67,68,Jermonte Fletcher,shot,gun,33.0,M,Black,Midwest,False,attack,Not fleeing,1,27,2015~2020
-68,69,Alan Lance Alverson,shot,gun,45.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,28,2015~2020
-69,70,Cody Karasek,shot,gun,26.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,28,2015~2020
-70,71,Matautu Nuu,shot and Tasered,hammer,35.0,M,Non-Black,West,True,attack,Not fleeing,1,28,2015~2020
-71,72,Alan James,shot,gun,31.0,M,Non-Black,Midwest,True,attack,Not fleeing,1,29,2015~2020
-72,73,Ralph Willis,shot,unarmed,42.0,M,Non-Black,Southwest,False,other,Foot,1,29,2015~2020
-73,74,John Barry Marshall,shot,gun,48.0,M,Non-Black,West,False,attack,Foot,1,30,2015~2020
-74,75,Victor Manuel Reyes,shot,gun,31.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,31,2015~2020
-75,76,Edward Donnell Bright,shot and Tasered,knife,54.0,M,Black,Northeast,True,other,Not fleeing,1,31,2015~2020
-76,77,Francis Murphy Rose III,shot,gun,42.0,M,Non-Black,West,True,attack,Not fleeing,2,2,2015~2020
-77,78,Jacob Haglund,shot,gun,17.0,M,Non-Black,Midwest,False,attack,Not fleeing,2,2,2015~2020
-78,79,David Kassick,shot and Tasered,unarmed,59.0,M,Non-Black,Northeast,False,other,Foot,2,2,2015~2020
-79,80,Ledarius D. Williams,shot,gun,23.0,M,Black,Midwest,False,attack,Foot,2,3,2015~2020
-80,81,Yuvette Henderson,shot,gun,38.0,F,Black,West,False,attack,Car,2,3,2015~2020
-81,82,Dewayne Deshawn Ward,shot,knife,29.0,M,Black,West,True,other,Not fleeing,2,3,2015~2020
-82,83,Anthony Purvis,shot,gun,45.0,M,Non-Black,Southeast,True,attack,Not fleeing,2,3,2015~2020
-83,84,Jeremy Lett,shot,unarmed,28.0,M,Black,Southeast,False,attack,Not fleeing,2,4,2015~2020
-84,85,Izzy Colon,shot,gun,37.0,M,Non-Black,Southeast,False,attack,Not fleeing,2,4,2015~2020
-85,86,Salvador Muna,shot,gun,28.0,M,Non-Black,West,False,attack,Car,2,4,2015~2020
-86,87,Joaquin Hernandez,shot,unarmed,28.0,M,Non-Black,West,False,other,Not fleeing,2,4,2015~2020
-87,88,Jimmy Ray Robinson Jr.,shot,gun,51.0,M,Black,Southwest,False,attack,Car,2,4,2015~2020
-88,89,Markell Atkins,shot,knife,36.0,M,Black,Southeast,False,other,Not fleeing,2,4,2015~2020
-89,90,Paul Alfred Eugene Johnson,shot,toy weapon,59.0,M,Non-Black,West,False,other,Car,2,5,2015~2020
-90,91,Herbert Hill,shot,gun,25.0,M,Black,Southwest,False,attack,Not fleeing,2,6,2015~2020
-91,92,John  Sawyer,shot,toy weapon,26.0,M,Non-Black,West,False,attack,Not fleeing,2,7,2015~2020
-92,93,James Allen,shot,gun,74.0,M,Black,Southeast,False,attack,Not fleeing,2,7,2015~2020
-93,94,John Martin Whittaker,shot,gun,33.0,M,Non-Black,Northeast,False,attack,Car,2,8,2015~2020
-94,95,Sawyer Flache,shot,gun,27.0,M,Non-Black,Southwest,False,attack,Not fleeing,2,8,2015~2020
-95,96,Vincent Cordaro,shot,gun,57.0,M,Non-Black,Northeast,True,attack,Not fleeing,2,8,2015~2020
-96,97,Joseph Paffen,shot,gun,46.0,M,Non-Black,Southeast,False,attack,Not fleeing,2,8,2015~2020
-97,98,Larry Hostetter,shot,gun,41.0,M,Non-Black,Southwest,False,attack,Not fleeing,2,8,2015~2020
-98,99,Kenneth Kreyssig,shot,gun,61.0,M,Non-Black,Northeast,True,attack,Not fleeing,2,9,2015~2020
-99,100,Desmond Luster,shot,gun,45.0,M,Black,Southwest,False,attack,Not fleeing,2,9,2015~2020
-100,101,Anthony Bess,shot,gun,49.0,M,Black,Southeast,False,attack,Not fleeing,2,10,2015~2020
-101,102,Brian Fritze,shot,gun,45.0,M,Non-Black,West,True,attack,Car,2,10,2015~2020
-102,103,Antonio Zambrano-Montes,shot and Tasered,unarmed,35.0,M,Non-Black,West,True,other,Foot,2,10,2015~2020
-103,104,Phillip Watkins,shot,knife,23.0,M,Black,West,True,other,Not fleeing,2,11,2015~2020
-104,105,Fletcher Ray Stewart,shot,toy weapon,46.0,M,Non-Black,Southeast,True,attack,Foot,2,11,2015~2020
-105,106,Jonathan Larry Harden,shot,,23.0,M,Non-Black,West,False,attack,Car,2,13,2015~2020
-106,107,Andres Lara-Rodriguez,shot,gun,21.0,M,Non-Black,Midwest,False,attack,Car,2,13,2015~2020
-107,108,Richard Carlin,shot,unarmed,35.0,M,Non-Black,Northeast,False,other,Not fleeing,2,13,2015~2020
-108,109,Matthew D. Belk,shot,gun,27.0,M,Non-Black,Southeast,False,attack,Not fleeing,2,13,2015~2020
-109,110,Daniel Mejia,shot,knife,37.0,M,Non-Black,West,True,other,Not fleeing,2,13,2015~2020
-110,111,Jason C. Hendrix,shot,gun,16.0,M,Non-Black,Northeast,True,attack,Car,2,14,2015~2020
-111,112,Roy Joy Day,shot,gun,51.0,M,Non-Black,Southwest,False,attack,Not fleeing,2,14,2015~2020
-112,113,Howard Brent Means Jr.,shot,gun,34.0,M,Non-Black,Southeast,False,attack,Foot,2,15,2015~2020
-113,114,Bruce Steward,shot,hatchet,34.0,M,Non-Black,West,True,other,Not fleeing,2,15,2015~2020
-114,115,Lavall Hall,shot and Tasered,unarmed,25.0,M,Black,Southeast,True,other,Not fleeing,2,15,2015~2020
-115,116,Lawrence Caldwell,shot,gun,56.0,M,Non-Black,West,False,attack,Not fleeing,2,16,2015~2020
-116,117,Michael K. Casper,shot,gun,26.0,M,Non-Black,West,False,attack,Not fleeing,2,16,2015~2020
-117,118,Cody Evans,shot,toy weapon,24.0,M,Non-Black,West,True,attack,Not fleeing,2,16,2015~2020
-118,119,Betty Sexton,shot,gun,43.0,F,Non-Black,Southeast,False,attack,Not fleeing,2,17,2015~2020
-119,120,Michael Ireland,shot,unarmed,31.0,M,Non-Black,Midwest,False,other,Foot,2,17,2015~2020
-120,121,Matthew Lundy,shot,gun,32.0,M,Non-Black,Midwest,False,attack,Not fleeing,2,17,2015~2020
-121,122,Douglas Sparks,shot,toy weapon,30.0,M,Non-Black,Northeast,False,attack,Foot,2,17,2015~2020
-122,123,Pedro Juan Saldivar,shot,,50.0,M,Non-Black,Southwest,False,other,Not fleeing,2,17,2015~2020
-123,124,Janisha Fonville,shot,knife,20.0,F,Black,Southeast,True,other,Not fleeing,2,18,2015~2020
-124,125,Ruben Villalpando,shot,unarmed,31.0,M,Non-Black,Southwest,False,other,Not fleeing,2,20,2015~2020
-125,126,Stanley Lamar Grant,shot,gun,38.0,M,Black,Southeast,False,attack,Not fleeing,2,20,2015~2020
-126,127,Douglas Harris,shot,gun,77.0,M,Black,Southeast,True,attack,Not fleeing,2,20,2015~2020
-127,128,Alejandro Salazar,shot,gun,,M,Non-Black,Southwest,False,attack,Car,2,20,2015~2020
-128,129,Jason Moncrief Carter,shot,gun,41.0,M,Non-Black,West,False,attack,Not fleeing,2,21,2015~2020
-129,130,Kent Norman,shot,knife,51.0,M,Non-Black,Midwest,False,attack,Not fleeing,2,21,2015~2020
-130,131,Bradford Leonard,shot,gun,50.0,M,Non-Black,Southeast,False,attack,Not fleeing,2,22,2015~2020
-131,132,Robert Kohl,shot,gun,47.0,M,Non-Black,Southwest,True,attack,Not fleeing,2,23,2015~2020
-132,133,Michael Wayne Smashey,shot,knife,37.0,M,Non-Black,Southeast,False,other,Not fleeing,2,23,2015~2020
-133,134,Anthony Giaquinta,shot,gun,41.0,M,Non-Black,Southeast,False,attack,Foot,2,23,2015~2020
-134,135,A'Donte Washington,shot,gun,16.0,M,Black,Southeast,False,attack,Not fleeing,2,23,2015~2020
-135,136,Jerome Nichols,shot and Tasered,knife,42.0,M,Non-Black,Northeast,False,attack,Car,2,23,2015~2020
-136,137,Daniel Elrod,shot and Tasered,unarmed,39.0,M,Non-Black,Midwest,False,other,Not fleeing,2,23,2015~2020
-137,138,Joseph Biegert,shot and Tasered,knife,30.0,M,Non-Black,Midwest,True,attack,Not fleeing,2,24,2015~2020
-138,139,Glenn Lewis,shot,,27.0,M,Black,Southwest,False,other,Car,2,25,2015~2020
-139,140,Francis Spivey,shot,gun,43.0,M,Non-Black,West,True,attack,Not fleeing,2,25,2015~2020
-140,141,David Cuevas,shot,gun,42.0,M,Non-Black,Southeast,False,attack,Foot,2,26,2015~2020
-141,142,Amilcar Perez-Lopez,shot,knife,21.0,M,Non-Black,West,False,other,Not fleeing,2,26,2015~2020
-142,143,Rodney Biggs,shot,unarmed,49.0,M,Non-Black,Southeast,False,other,Not fleeing,2,26,2015~2020
-143,144,Crystal Lee Miley Harry,shot,gun,34.0,F,Non-Black,Southeast,False,attack,Car,2,26,2015~2020
-144,145,Alexander Phillip Long,shot and Tasered,unarmed,31.0,M,Non-Black,Midwest,False,other,Not fleeing,2,26,2015~2020
-145,146,Ernesto Javiar Canepa Diaz,shot,unarmed,27.0,M,Non-Black,West,False,other,Not fleeing,2,27,2015~2020
-146,147,Chazsten Freeman,shot,gun,24.0,M,Non-Black,Southeast,False,attack,Not fleeing,2,28,2015~2020
-147,148,Thomas Allen,shot,unarmed,34.0,M,Black,Midwest,False,other,Car,2,28,2015~2020
-148,149,Jessica Uribe,shot,knife,28.0,F,Non-Black,West,False,other,Not fleeing,2,28,2015~2020
-149,150,Cornelius J. Parker,shot,gun,28.0,M,Black,Midwest,False,attack,Car,2,28,2015~2020
-150,151,Ian Sherrod,shot,gun,40.0,M,Black,Southeast,True,attack,Car,2,28,2015~2020
-151,152,Stephanie Hill,shot,gun,37.0,F,Non-Black,West,False,attack,Car,2,28,2015~2020
-152,153,Deven Guilford,shot and Tasered,unarmed,17.0,M,Non-Black,Midwest,False,attack,Not fleeing,2,28,2015~2020
-153,154,Hung Trieu,shot,gun,35.0,M,Non-Black,Southwest,False,attack,Not fleeing,3,1,2015~2020
-154,155,Donald Lewis Matkins,shot,gun,49.0,M,Non-Black,Southeast,False,attack,Not fleeing,3,1,2015~2020
-155,156,Charly Leundeu Keunang,shot and Tasered,unarmed,43.0,M,Black,West,True,attack,Not fleeing,3,1,2015~2020
-156,157,Shaquille Barrow,shot,gun,20.0,M,Black,Midwest,False,other,Foot,3,2,2015~2020
-157,158,Fednel Rhinvil,shot,gun,25.0,M,Black,Northeast,False,attack,Not fleeing,3,3,2015~2020
-158,159,Matthew Metz,shot,knife,25.0,M,Non-Black,West,False,attack,Not fleeing,3,3,2015~2020
-159,160,Derek Cruice,shot,unarmed,26.0,M,Non-Black,Southeast,False,other,Not fleeing,3,4,2015~2020
-160,161,Carl Lao,shot,gun,28.0,M,Non-Black,West,False,attack,Not fleeing,3,4,2015~2020
-161,162,Tyrone Ryerson Lawrence,shot,knife,45.0,M,Black,Midwest,True,other,Not fleeing,3,5,2015~2020
-162,163,Sergio Alexander Navas,shot,unarmed,36.0,M,Non-Black,West,False,other,Car,3,5,2015~2020
-163,164,Tyson Hubbard,shot,gun,34.0,M,Non-Black,Midwest,False,attack,Not fleeing,3,5,2015~2020
-164,165,Tony Robinson,shot,unarmed,19.0,M,Black,Midwest,False,attack,Foot,3,6,2015~2020
-165,166,Naeschylus Vinzant,shot,unarmed,37.0,M,Black,West,False,other,Foot,3,6,2015~2020
-166,167,Andrew Anthony Williams,shot,,48.0,M,Black,Southeast,False,other,Not fleeing,3,6,2015~2020
-167,168,Adam Reinhart,shot,gun,29.0,M,Non-Black,West,False,attack,Not fleeing,3,7,2015~2020
-168,169,Monique Jenee Deckard,shot,knife,43.0,F,Black,West,True,other,Not fleeing,3,8,2015~2020
-169,170,Aurelio Duarte,shot,gun,40.0,M,Non-Black,Southwest,False,attack,Not fleeing,3,8,2015~2020
-170,171,Michael McKillop,shot,,35.0,M,Non-Black,Northeast,False,attack,Car,3,8,2015~2020
-171,172,Anthony Hill,shot,unarmed,27.0,M,Black,Southeast,True,other,Not fleeing,3,9,2015~2020
-172,173,Lester Brown,shot,gun,58.0,M,Non-Black,Southeast,False,attack,Not fleeing,3,9,2015~2020
-173,174,James Brent Damon,shot,gun,46.0,M,Non-Black,West,False,attack,Not fleeing,3,9,2015~2020
-174,175,Cedrick Lamont Bishop,shot,gun,30.0,M,Black,Southeast,False,attack,Not fleeing,3,9,2015~2020
-175,176,Theodore Johnson,shot,gun,64.0,M,Black,Midwest,False,attack,Not fleeing,3,10,2015~2020
-176,177,Jamie Croom,shot,gun,31.0,M,Black,Southwest,False,attack,Not fleeing,3,10,2015~2020
-177,178,Christopher Mitchell,shot,knife,23.0,M,Non-Black,Southeast,False,attack,Not fleeing,3,10,2015~2020
-178,179,Edixon  Franco,shot,sword,37.0,M,Non-Black,West,True,other,Car,3,10,2015~2020
-179,180,Terry Garnett Jr.,shot,,37.0,M,Black,Northeast,False,other,Not fleeing,3,11,2015~2020
-180,181,James Greenwell,shot,gun,31.0,M,Non-Black,Southeast,True,attack,Not fleeing,3,11,2015~2020
-181,182,Benito Osorio,shot,gun,39.0,M,Non-Black,West,False,attack,Not fleeing,3,11,2015~2020
-182,183,Ryan Dean Burgess,shot,toy weapon,31.0,M,Non-Black,West,True,attack,Not fleeing,3,11,2015~2020
-183,184,Gilbert Fleury,shot,gun,54.0,M,Non-Black,Southeast,False,attack,Not fleeing,3,11,2015~2020
-184,185,William Russell  Smith,shot,gun,53.0,M,Non-Black,Southeast,True,attack,Not fleeing,3,11,2015~2020
-185,186,Aaron Valdez,shot,,25.0,M,Non-Black,West,False,other,Not fleeing,3,11,2015~2020
-186,187,Bobby Gross,shot,unarmed,35.0,M,Black,Northeast,True,other,Not fleeing,3,12,2015~2020
-187,188,James Richard Jimenez,shot,gun,41.0,M,Non-Black,West,False,other,Other,3,13,2015~2020
-188,189,Fred  Liggett,shot,gun,59.0,M,Non-Black,Midwest,False,attack,Not fleeing,3,13,2015~2020
-189,190,Andrew Driver,shot,knife,36.0,M,Non-Black,West,False,attack,Not fleeing,3,13,2015~2020
-190,191,Antonio Perez,shot,unarmed,32.0,M,Non-Black,West,False,other,Foot,3,13,2015~2020
-191,192,Clifton Reintzel,shot,knife,53.0,M,Non-Black,Southeast,False,other,Not fleeing,3,14,2015~2020
-192,193,Aaron Siler,shot,gun,26.0,M,Non-Black,Midwest,False,attack,Car,3,14,2015~2020
-193,194,Richard Castilleja,shot,gun,29.0,M,Non-Black,Southwest,True,attack,Not fleeing,3,14,2015~2020
-194,195,Troy Ray Boyd,shot,machete,27.0,M,Non-Black,Southeast,False,other,Not fleeing,3,15,2015~2020
-195,196,Justin Tolkinen,shot,gun,28.0,M,Non-Black,Midwest,True,attack,Not fleeing,3,16,2015~2020
-196,197,William Dean Poole,shot,gun,52.0,M,Non-Black,Southeast,True,attack,Not fleeing,3,16,2015~2020
-197,198,Andrew Charles Shipley,shot,gun,49.0,M,Non-Black,West,True,attack,Not fleeing,3,17,2015~2020
-198,199,Declan Owen,shot,gun,24.0,M,Non-Black,Southeast,False,attack,Foot,3,17,2015~2020
-199,200,Alice Brown,shot,vehicle,24.0,F,Non-Black,West,True,other,Not fleeing,3,17,2015~2020
+,id,Númeración,prov_insc,cant_insc,parr_insc,mes_insc,dia_insc,fecha_insc,nac_fall,cod_pais,gender,anio_nac,mes_nac,dia_nac,fecha_nac,anio_fall,mes_fall,dia_fall,fecha_fall,cod_edad,edad,prov_res,sabe_leer,etnia,lugar_ocur,prov_fall,cant_fall,parr_fall,muj_fertil,mor_viol,lug_viol,autopsia,causa4,cer_por,area_fall,area_res,est_civil,niv_inst,residente,causa,lc1,causa103,causa80,causa67A,causa67B,date_year
+0,1,4148,Guayas,Guayaquil,Rocafuerte_duplicated_090110,Febrero,20,13770000000.0,Extranjero,Venezuela (República Bolivariana de),N/A,1974,Enero,5,12345955200,2019,Febrero,12,13769308800,Años,45,Guayas,Si,Mestizo (a),Casa,Guayas,Guayaquil,Guayaquil,, Accidente de transporte,Calle o carreteras,Si,"V092  Peatón lesionado en accidente de tránsito que involucra otros vehículos de motor, y los no especificados  ",Médico (a) Legista,Urbana,Urbano,Soltero (a),Sin información,No residente,"V09   Peatón lesionado en otros accidentes de transporte, y en los no especificados  ",57 Accidentes de transporte terrestre,096 Accidentes de transporte                                ,073 Accidentes de transporte                                ,060 Causas externas de morbilidad y de mortalidad,061 Accidentes de transporte,2019
+1,2,25915,Pichincha,Quito,Calderón (Carapungo),Julio,16,13782614400.0,Extranjero,Venezuela (República Bolivariana de),N/A,1974,Marzo,16,12352003200,2019,Julio,14,13782441600,Años,45,Pichincha,Si,Mestizo (a),Establecimientos del Ministerio de Salud,Pichincha,Quito,Calderón (Carapungo),,,,No,"B206  Enfermedad por VIH, resultante en neumonía por Pneumocystis carinii  ",Médico (a) Tratante,Rural,Urbano,Soltero (a),Primaria,Residente,"B20   Enfermedad por virus de la inmunodeficiencia humana [VIH], resultante en enfermedades infecciosas y parasitarias  ",7 Enfermedad por virus de la inmunodeficiencia (VIH),020 Enf por virus de la inmunodeficiencia humana (VIH)      ,019 Enfermedad por virus de la inmunodeficiencia humana (VIH) ,001 Ciertas enfermedades infecciosas y parasitarias,012 Enfermedad por virus de la inmuno–deficiencia humana [VIH],2019
+2,3,3436,Pichincha,Quito,San Juan_duplicated_170130,Noviembre,6,13792377600.0,Extranjero,Venezuela (República Bolivariana de),N/A,2009,Abril,29,13460342400,2019,Noviembre,5,13792291200,Años,10,Pichincha,Si,Mestizo (a),Establecimientos del Ministerio de Salud,Pichincha,Quito,Mariscal Sucre_duplicated_170123,,Otros accidentes,Sin información,No,X599  Exposición a factores no especificados que causan otras lesiones y las no especificadas  ,Médico (a) Tratante,Urbana,Urbano,Soltero (a),Educación Básica,Residente,X59   Exposición a factores no especificados  ,88 Resto de causas,103 Todas las demás causas externas                         ,080 Todas las demás causas externas                         ,060 Causas externas de morbilidad y de mortalidad,067 Todas las demás causas externas,2019
+3,4,26689,Pichincha,Quito,San Juan_duplicated_170130,Julio,24,13783305600.0,Extranjero,Venezuela (República Bolivariana de),N/A,1962,Mayo,1,11977286400,2019,Julio,23,13783219200,Años,57,Pichincha,Si,Mestizo (a),Establecimientos del Ministerio de Salud,Pichincha,Quito,Chilibulo,,,,No,"I619  Hemorragia intraencefálica, no especificada  ",Médico (a) Tratante,Urbana,Urbano,Soltero (a),Primaria,Residente,I61   Hemorragia intraencefálica  ,42 Enfermedades cerebrovasculares,069 Enfermedades Cerebro vasculares                          ,055 Enfermedades cerebro vasculares                          ,030 Enfermedades del sistema circulatorio,030 Enfermedades del sistema circulatorio,2019
+4,5,74213,Guayas,Guayaquil,Rocafuerte_duplicated_090110,Diciembre,26,13796697600.0,Extranjero,Venezuela (República Bolivariana de),N/A,1981,Diciembre,18,12596860800,2019,Septiembre,30,13789180800,Años,37,Guayas,Si,Mulato  (a),"Hospital, clínica o consultorio privado",Guayas,Guayaquil,Tarqui_duplicated_090112,,,,Si,I517  Cardiomegalia  ,Médico (a) Legista,Urbana,Urbano,Soltero (a),Primaria,Residente,I51   Complicaciones y descripciones mal definidas de enfermedad cardíaca  ,"41 Insuficiencia cardíaca, complicaciones y enfermedades mal definidas",068 Otras enfermedades del corazón                          ,054 Otras Enfermedades del corazón                          ,030 Enfermedades del sistema circulatorio,030 Enfermedades del sistema circulatorio,2019
+5,6,15313,Santa Elena,Santa Elena,Santa Elena_duplicated_240102,Septiembre,3,13786848000.0,Extranjero,Colombia,N/A,1923,Agosto,23,10756368000,2019,Septiembre,2,13786761600,Años,96,Santa Elena,Si,Mestizo (a),Casa,Santa Elena,Santa Elena,Santa Elena_duplicated_240102,,,,No,"J180  Bronconeumonía, no especificada  ",Médico (a) no tratante,Urbana,Urbano,Viudo (a),Secundaria,Residente,"J18   Neumonía, organismo no especificado  ",46 Influenza y neumonía,074 Neumonia                                                ,059 Neumonia                                                ,031 Enfermedades del sistema respiratorio,032 Neumonía,2019
+6,7,42502,Pichincha,Quito,Iñaquito,Enero,24,13767667200.0,Extranjero,Venezuela (República Bolivariana de),N/A,1987,Junio,28,12771216000,2019,Enero,23,13767580800,Años,31,Pichincha,Si,Mestizo (a),Casa,Pichincha,Quito,Carcelén,,,,No,"B24   Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificación  ",Médico (a) Legista,Urbana,Urbano,Soltero (a),Educación Media / Bachillerato,Residente,"B24   Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificación  ",7 Enfermedad por virus de la inmunodeficiencia (VIH),020 Enf por virus de la inmunodeficiencia humana (VIH)      ,019 Enfermedad por virus de la inmunodeficiencia humana (VIH) ,001 Ciertas enfermedades infecciosas y parasitarias,012 Enfermedad por virus de la inmuno–deficiencia humana [VIH],2019
+7,8,5626,Pichincha,Quito,Itchimbia,Noviembre,6,13792377600.0,Extranjero,Venezuela (República Bolivariana de),N/A,1987,Septiembre,16,12778128000,2019,Noviembre,3,13792118400,Años,32,Chimborazo,Si,Sin información,Establecimientos del Ministerio de Salud,Chimborazo,Riobamba,Velóz,,,,No,"B24   Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificación  ",Médico (a) no tratante,Urbana,Urbano,Soltero (a),Sin información,Residente,"B24   Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificación  ",7 Enfermedad por virus de la inmunodeficiencia (VIH),020 Enf por virus de la inmunodeficiencia humana (VIH)      ,019 Enfermedad por virus de la inmunodeficiencia humana (VIH) ,001 Ciertas enfermedades infecciosas y parasitarias,012 Enfermedad por virus de la inmuno–deficiencia humana [VIH],2019
+8,9,61104,Los Rios,Quevedo,San Camilo,Febrero,20,13770000000.0,Sin información,Zonas sin especificar,N/A,1982,Mayo,2,12608524800,2019,Febrero,16,13769654400,Años,36,Los Ríos,Si,Mestizo (a),"Hospital, clínica o consultorio privado",Los Ríos,Babahoyo,Doctor Camilo Ponce,,Otros accidentes,Sin información,Sin información,X599  Exposición a factores no especificados que causan otras lesiones y las no especificadas  ,Médico (a) no tratante,Urbana,Urbano,Soltero (a),Educación Media / Bachillerato,No residente,X59   Exposición a factores no especificados  ,88 Resto de causas,103 Todas las demás causas externas                         ,080 Todas las demás causas externas                         ,060 Causas externas de morbilidad y de mortalidad,067 Todas las demás causas externas,2019
+9,10,3448,Pichincha,Quito,Calderón (Carapungo),Mayo,13,13777084800.0,Extranjero,Colombia,N/A,1954,Julio,20,11731737600,2019,Mayo,11,13776912000,Años,64,Pichincha,Si,Negro (a),Establecimientos del Ministerio de Salud,Pichincha,Quito,Calderón (Carapungo),,,,No,"J449  Enfermedad pulmonar obstructiva crónica, no especificada  ",Médico (a) Tratante,Rural,Rural,Soltero (a),Primaria,Residente,J44   Otras enfermedades pulmonares obstructivas crónicas  ,47 Enfermedades crónicas de las vías respiratorias inferiores,076 Enfermedades crónicas de las vías resp inferiores       ,061 Enfermedades crónicas de las vías resp. inferiores      ,031 Enfermedades del sistema respiratorio,034 Resto de enfermedades del sistema respiratorio,2019
+10,11,67102,Pichincha,Quito,Iñaquito,Noviembre,26,13794105600.0,Extranjero,Colombia,N/A,1966,Septiembre,7,12114662400,2019,Noviembre,10,13792723200,Años,53,Pichincha,Si,Mestizo (a),Otro,Pichincha,Quito,Quitumbe,,,,Si,"I219  Infarto agudo del miocardio, sin otra especificación  ",Médico (a) Legista,Urbana,Urbano,Soltero (a),Primaria,Residente,I21   Infarto agudo del miocardio  ,35 Enfermedades isquémicas del corazón,067 Enfermedades isquémicas del corazón                     ,053 Enfermedades isquémicas del corazón                     ,030 Enfermedades del sistema circulatorio,030 Enfermedades del sistema circulatorio,2019
+11,12,40293,Napo,Tena,Tena,Agosto,16,13785292800.0,Extranjero,Colombia,N/A,1948,Mayo,7,11536041600,2019,Agosto,15,13785206400,Años,71,Exterior,Si,Mestizo (a),Otro,Napo,Archidona,Cotundo,, Accidente de transporte,Calle o carreteras,Si,"V796  Ocupante no especificado de autobús lesionado por colisión con otros vehículos de motor, y con los no especific",Médico (a) Legista,Rural,Urbano,Casad o (a),Educación Media / Bachillerato,No residente,"V79   Ocupante de autobús lesionado en otros accidentes de transporte, y en los no especificados  ",57 Accidentes de transporte terrestre,096 Accidentes de transporte                                ,073 Accidentes de transporte                                ,060 Causas externas de morbilidad y de mortalidad,061 Accidentes de transporte,2019
+12,13,36008,Sucumbios,Lago Agrio,Nueva Loja,Julio,24,13783305600.0,Extranjero,Colombia,N/A,1985,Octubre,20,12717993600,2019,Julio,23,13783219200,Años,33,Sucumbios,Si,Mestizo (a),Establecimientos del Ministerio de Salud,Sucumbios,Lago Agrio,Nueva Loja,,,,Si,"I629  Hemorragia intracraneal (no traumática), no especificada  ",Médico (a) Legista,Urbana,Urbano,Soltero (a),Educación Media / Bachillerato,Residente,I62   Otras hemorragias intracraneales no traumáticas  ,42 Enfermedades cerebrovasculares,069 Enfermedades Cerebro vasculares                          ,055 Enfermedades cerebro vasculares                          ,030 Enfermedades del sistema circulatorio,030 Enfermedades del sistema circulatorio,2019
+13,14,64226,Sucumbios,Lago Agrio,Nueva Loja,Julio,31,13783910400.0,Extranjero,Colombia,N/A,1939,Noviembre,1,11267337600,2019,Julio,31,13783910400,Años,79,Exterior,Si,Mestizo (a),Establecimientos del Ministerio de Salud,Sucumbios,Lago Agrio,Nueva Loja,,,,No,"I219  Infarto agudo del miocardio, sin otra especificación  ",Médico (a) no tratante,Urbana,Urbano,Casad o (a),Primaria,No residente,I21   Infarto agudo del miocardio  ,35 Enfermedades isquémicas del corazón,067 Enfermedades isquémicas del corazón                     ,053 Enfermedades isquémicas del corazón                     ,030 Enfermedades del sistema circulatorio,030 Enfermedades del sistema circulatorio,2019
+14,15,24548,Sucumbios,Lago Agrio,Nueva Loja,Abril,9,13774147200.0,Extranjero,Colombia,N/A,1948,Marzo,9,11530944000,2019,Abril,8,13774060800,Años,71,Sucumbios,Si,Mestizo (a),Establecimientos del Ministerio de Salud,Sucumbios,Lago Agrio,Nueva Loja,,,,No,"I219  Infarto agudo del miocardio, sin otra especificación  ",Médico (a) Tratante,Urbana,Urbano,Soltero (a),Ninguno,No residente,I21   Infarto agudo del miocardio  ,35 Enfermedades isquémicas del corazón,067 Enfermedades isquémicas del corazón                     ,053 Enfermedades isquémicas del corazón                     ,030 Enfermedades del sistema circulatorio,030 Enfermedades del sistema circulatorio,2019
+15,16,63488,Sucumbios,Lago Agrio,Nueva Loja,Julio,12,13782268800.0,Extranjero,Colombia,N/A,1983,Abril,16,12638678400,2019,Marzo,2,13770864000,Años,35,Exterior,Si,Mestizo (a),Establecimientos del Ministerio de Salud,Sucumbios,Lago Agrio,Nueva Loja,,Suicidio,Sin información,Si,"X699  Envenenamiento autoinfligido intencionalmente por, y exposición a otros productos químicos y sustancias nocivas,",Médico (a) Legista,Urbana,Urbano,Soltero (a),Primaria,No residente,"X69   Envenenamiento autoinfligido intencionalmente por, y exposición a otros productos químicos y sustancias nocivas,",63 Lesiones autoinflingidas intencionalmente (Suicidio),101 Lesiones autoinfligidas intencionalmente                ,078 Lesiones autoinfligidas intencionalmente                ,060 Causas externas de morbilidad y de mortalidad,067 Todas las demás causas externas,2019
+16,17,64955,Azuay,Cuenca,San Blas,Octubre,15,13790476800.0,Extranjero,Venezuela (República Bolivariana de),N/A,1980,Diciembre,3,12564028800,2019,Octubre,6,13789699200,Años,38,Azuay,Si,Mestizo (a),Establecimientos del Ministerio de Salud,Azuay,Cuenca,Huaynacápac,,Homicidios,Calle o carreteras,Si,"Y094  Agresión por medios no especificados, calles y carreteras  ",Médico (a) Legista,Urbana,Urbano,Soltero (a),Educación Media / Bachillerato,Residente,Y09   Agresión por medios no especificados  ,64 Agresiones (Homicidios),102 Agresiones                                              ,079 Agresiones                                              ,060 Causas externas de morbilidad y de mortalidad,066 Agresiones,2019
+17,18,23794,Sucumbios,Lago Agrio,Nueva Loja,Septiembre,30,13789180800.0,Extranjero,Colombia,N/A,1948,Junio,7,11538720000,2019,Septiembre,30,13789180800,Años,71,Exterior,No,Mestizo (a),Establecimientos del Ministerio de Salud,Sucumbios,Lago Agrio,Nueva Loja,,,,No,J841  Otras enfermedades pulmonares intersticiales con fibrosis  ,Médico (a) no tratante,Urbana,Urbano,Unión de hecho,Ninguno,No residente,J84   Otras enfermedades pulmonares intersticiales  ,48 Edema pulmonar y otras enfermedades respiratorias que afectan al intersticio,077 Resto de enfermedades del sistema respiratorio          ,062 Resto de enfermedades del sistema respiratorio         ,031 Enfermedades del sistema respiratorio,034 Resto de enfermedades del sistema respiratorio,2019
+18,19,25306,Carchi,Tulcán,González Suárez,Julio,9,13782009600.0,Sin información,Zonas sin especificar,N/A,1935,Noviembre,17,11142489600,2019,Julio,8,13781923200,Años,83,Carchi,Si,Mestizo (a),Establecimientos del Ministerio de Salud,Carchi,Tulcán,Tulcán,,,,No,"I619  Hemorragia intraencefálica, no especificada  ",Médico (a) Tratante,Urbana,Urbano,Casad o (a),Primaria,Residente,I61   Hemorragia intraencefálica  ,42 Enfermedades cerebrovasculares,069 Enfermedades Cerebro vasculares                          ,055 Enfermedades cerebro vasculares                          ,030 Enfermedades del sistema circulatorio,030 Enfermedades del sistema circulatorio,2019
+19,20,51594,Carchi,Tulcán,González Suárez,Octubre,8,13789872000.0,Extranjero,Colombia,N/A,1930,Enero,1,10957075200,2019,Septiembre,29,13789094400,Años,89,Carchi,Si,Mestizo (a),Establecimientos del Ministerio de Salud,Carchi,Tulcán,Tulcán,,,,No,"C349  Tumor maligno de los bronquios o del pulmón, parte no especificada  ",Médico (a) no tratante,Urbana,Rural,Viudo (a),Primaria,Residente,C34   Tumor maligno de los bronquios y del pulmón  ,"15 Neoplasia maligna de la tráquea, bronquios y pulmón",034 Tumor maligno de la tráquea de los bronquios y del pulmón  ,"032 Tumor maligno de la tráquea, de los bronq y del pulmón  ",016 Tumores [neoplasias],018 Resto de tumores malignos,2019
+20,21,19259,Santo Domingo de los Tsachilas,Santo Domingo,Santo Domingo De Los Colorados,Enero,8,13766284800.0,Extranjero,Colombia,N/A,1916,Febrero,7,10518422400,2019,Enero,5,13766025600,Años,102,Santo Domingo de los Tsachilas,Si,Mestizo (a),Casa,Santo Domingo de los Tsachilas,Santo Domingo,Río Verde_duplicated_230105,,,,No,"E149  Diabetes mellitus no especificada, sin mención de complicación  ",Médico (a) Legista,Urbana,Urbano,Sin información,Primaria,Residente,"E14   Diabetes mellitus, no especificada  ",26 Diabetes Mellitus,052 Diabetes mellitus                                       ,046 Diabetes mellitus                                       ,"023 Enfermedades endocrinas, nutricionales y metabólicas","025 Resto de enfermedades endocrinas, nutricionales y metabólicas",2019
+21,22,65716,Esmeraldas,Esmeraldas,Esmeraldas,Mayo,13,13777084800.0,Extranjero,Colombia,N/A,1936,Febrero,25,11151129600,2019,Mayo,8,13776652800,Años,83,Esmeraldas,No,Negro (a),Casa,Esmeraldas,Esmeraldas,Esmeraldas,,,,No,I10   Hipertensión esencial (primaria)  ,Médico (a) no tratante,Urbana,Urbano,Soltero (a),Ninguno,Residente,I10   Hipertensión esencial (primaria)  ,34 Enfermedades hipertensivas,066 Enfermedades hipertensivas                              ,052 Enfermedades hipertensivas                              ,030 Enfermedades del sistema circulatorio,030 Enfermedades del sistema circulatorio,2019
+22,23,18459,Imbabura,Ibarra,San Francisco_duplicated_100104,Agosto,13,13785033600.0,Extranjero,Venezuela (República Bolivariana de),N/A,1989,Marzo,24,12826080000,2019,Agosto,12,13784947200,Años,30,Imbabura,Si,Mestizo (a),Casa,Imbabura,Ibarra,Sagrario,,,,Si,"I219  Infarto agudo del miocardio, sin otra especificación  ",Médico (a) Legista,Urbana,Urbano,Unión de hecho,Educación Media / Bachillerato,Residente,I21   Infarto agudo del miocardio  ,35 Enfermedades isquémicas del corazón,067 Enfermedades isquémicas del corazón                     ,053 Enfermedades isquémicas del corazón                     ,030 Enfermedades del sistema circulatorio,030 Enfermedades del sistema circulatorio,2019
+23,24,64965,Sucumbios,Lago Agrio,Nueva Loja,Septiembre,26,13788835200.0,Extranjero,Colombia,N/A,1919,Noviembre,29,10638604800,2004,Septiembre,23,13315276800,Años,84,Sucumbios,Si,Mestizo (a),Casa,Sucumbios,Lago Agrio,Nueva Loja,,,,,R98   Muerte sin asistencia  ,Funcionario de Registro Civil,Urbana,Urbano,Casad o (a),Primaria,Residente,R98   Muerte sin asistencia  ,99 Causas mal definidas,"094 Sintomas, signos y hallazgos anormales  clínicos yde laboratorio  no clasificados en otra parte","071 Sintoms,signs y hallz anorm cli.y d.lab, no clas en otras partes","056 Síntomas, signos y hallazgos anormales","058 Otros síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",2019
+24,25,50846,Pichincha,Quito,Quitumbe,Febrero,1,13768358400.0,Extranjero,Venezuela (República Bolivariana de),N/A,1991,Septiembre,19,12904617600,2019,Enero,31,13768272000,Años,27,Pichincha,Si,Negro (a),Establecimientos del Ministerio de Salud,Pichincha,Quito,Chilibulo,,,,No,"B206  Enfermedad por VIH, resultante en neumonía por Pneumocystis carinii  ",Médico (a) no tratante,Urbana,Urbano,Soltero (a),Secundaria,Residente,"B20   Enfermedad por virus de la inmunodeficiencia humana [VIH], resultante en enfermedades infecciosas y parasitarias  ",7 Enfermedad por virus de la inmunodeficiencia (VIH),020 Enf por virus de la inmunodeficiencia humana (VIH)      ,019 Enfermedad por virus de la inmunodeficiencia humana (VIH) ,001 Ciertas enfermedades infecciosas y parasitarias,012 Enfermedad por virus de la inmuno–deficiencia humana [VIH],2019
+25,26,3591,Pichincha,Quito,Iñaquito,Agosto,19,13785552000.0,Extranjero,Venezuela (República Bolivariana de),N/A,1986,Abril,19,12733632000,2019,Julio,4,13781577600,Años,33,Imbabura,Si,Mestizo (a),Otro,Imbabura,San Miguel De Urcuqui,La Merced De Buenos Aires,,Otros accidentes,Sin información,Si,X599  Exposición a factores no especificados que causan otras lesiones y las no especificadas  ,Médico (a) Legista,Rural,Rural,Soltero (a),Educación Media / Bachillerato,Residente,X59   Exposición a factores no especificados  ,88 Resto de causas,103 Todas las demás causas externas                         ,080 Todas las demás causas externas                         ,060 Causas externas de morbilidad y de mortalidad,067 Todas las demás causas externas,2019
+26,27,73206,Pichincha,Quito,San Juan_duplicated_170130,Enero,14,13766803200.0,Sin información,Zonas sin especificar,N/A,1955,Agosto,16,11765606400,2019,Enero,11,13766544000,Años,63,Pichincha,Si,Blanco (a),Casa,Pichincha,Quito,Guayllabamba,,,,No,"I489 Fibrilación y aleteo auricular, no especificado",Médico (a) Legista,Rural,Rural,Soltero (a),Educación Básica,Residente,I48   Fibrilación y aleteo auricular  ,40 Arritmias cardíacas,068 Otras enfermedades del corazón                          ,054 Otras Enfermedades del corazón                          ,030 Enfermedades del sistema circulatorio,030 Enfermedades del sistema circulatorio,2019
+27,28,51597,Galapagos,Santa Cruz,Puerto Ayora,Septiembre,25,13788748800.0,Extranjero,Dinamarca,N/A,1967,Julio,5,12140668800,2019,Septiembre,24,13788662400,Años,52,Exterior,Si,Blanco (a),Casa,Galapagos,Santa Cruz,Puerto Ayora,,Otros accidentes,Otro,Si,"W698  Ahogamiento y sumersión mientras se está en aguas naturales, otro lugar especificado  ",Médico (a) Legista,Urbana,Urbano,Divorciado (a),Superior universitario,No residente,W69   Ahogamiento y sumersión mientras se está en aguas naturales  ,60 Ahogamiento y sumersión accidentales,098 Ahogamiento y sumersión accidentales                    ,075 Ahogamiento y sumersion accidentales                    ,060 Causas externas de morbilidad y de mortalidad,062 Ahogamiento y sumersión accidentales,2019
+28,29,27627,El Oro,Machala,La Providencia_duplicated_070101,Noviembre,20,13793587200.0,Extranjero,Venezuela (República Bolivariana de),N/A,1939,Enero,21,11242800000,2019,Noviembre,20,13793587200,Años,80,El Oro,Si,Mestizo (a),Casa,El Oro,Machala,Machala,,,,No,K703  Cirrosis hepática alcohólica  ,Médico (a) no tratante,Urbana,Urbano,Viudo (a),Secundaria,Residente,K70   Enfermedad alcohólica del hígado  ,51 Cirrosis y otras enfermedades del hígado,080 Enfermedades del hígado                                 ,064 Enfermedades del hígado                                 ,035 Enfermedades del sistema digestivo,035 Enfermedades del sistema digestivo,2019

@@ -17,11 +17,13 @@ class Incognito:
         self.k_anon_combinations = []
         self.checker = []
         self.quasi_iden = [
-            'state',
-            'date_year',
-            'age',
-            'race',
-            'flee'
+            'gender'
+            # 'state',
+            # 'date_year',
+            # 'age',
+            # 'race',
+            # 'flee',
+            # 'gender'
         ]
         self.checker_quasi = []
         self.r_attribute_gen = {}
@@ -34,9 +36,9 @@ class Incognito:
         self.dgh_trees = self.csv_dgh.dghs
         self.table = pd.read_csv(csv_path, header=0)
         self.table['date'] = pd.to_datetime(
-            self.table['date'], format='%m/%d/%Y')
-        self.table['date_month'] = self.table['date'].dt.month
-        self.table['date_day'] = self.table['date'].dt.day
+            self.table['date'], format='%Y')#'%m/%d/%Y')
+        #self.table['date_month'] = self.table['date'].dt.month
+        #self.table['date_day'] = self.table['date'].dt.day
         self.table['date_year'] = self.table['date'].dt.year
         self.table.drop('date', axis=1, inplace=True)
         # self.table = self.csv_dgh.table.re
@@ -65,8 +67,8 @@ class Incognito:
                     else:
                         issaKnon = self.generalize_with_level(
                             s=node.get_data(), k_anon=kAnon)
-                        print("work node:", node.get_data())
-                        print("Am I k-Anon?", issaKnon)
+                        #print("work node:", node.get_data())
+                        #print("Am I k-Anon?", issaKnon)
                         # print()
                         if issaKnon:
                             self.mark_all_gens(node)
@@ -312,7 +314,7 @@ class Incognito:
 
 
 start_time = time.time()
-incog = Incognito('temp_data.csv')
+incog = Incognito('Data/defunciones2019_limpio.csv')
 incog.main_algorithm(2)
 
 # displaying generalizations
