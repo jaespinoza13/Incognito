@@ -17,7 +17,8 @@ class Incognito:
         self.k_anon_combinations = []
         self.checker = []
         self.quasi_iden = [
-            'gender'
+            'edad',
+            'sexo'
             # 'state',
             # 'date_year',
             # 'age',
@@ -35,12 +36,12 @@ class Incognito:
             csv_path, dgh_paths=self.dgh_paths, dgh_objs=None)
         self.dgh_trees = self.csv_dgh.dghs
         self.table = pd.read_csv(csv_path, header=0)
-        self.table['date'] = pd.to_datetime(
-            self.table['date'], format='%Y')#'%m/%d/%Y')
+        #self.table['date'] = pd.to_datetime(
+         #   self.table['date'], format='%Y')#'%m/%d/%Y')
         #self.table['date_month'] = self.table['date'].dt.month
         #self.table['date_day'] = self.table['date'].dt.day
-        self.table['date_year'] = self.table['date'].dt.year
-        self.table.drop('date', axis=1, inplace=True)
+        # self.table['date_year'] = self.table['date'].dt.year
+        # self.table.drop('date', axis=1, inplace=True)
         # self.table = self.csv_dgh.table.re
         self.path = csv_path
 
