@@ -17,8 +17,12 @@ class Incognito:
         self.k_anon_combinations = []
         self.checker = []
         self.quasi_iden = [
+            'sexo',
+            'prov_res',
             'edad',
-            'sexo'
+            'anio_nac',
+            'mes_nac',
+            'dia_nac'
             # 'state',
             # 'date_year',
             # 'age',
@@ -316,7 +320,7 @@ class Incognito:
 
 start_time = time.time()
 incog = Incognito('Data/defunciones2019_limpio.csv')
-incog.main_algorithm(2)
+incog.main_algorithm(100) #Se define el nivel de K-anonimato
 
 # displaying generalizations
 incog.view_gen_combinations()

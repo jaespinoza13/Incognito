@@ -1,0 +1,13 @@
+Enero,Enero~Marzo,Enero~Junio,Enero~Diciembre,*
+Febrero,Enero~Marzo,Enero~Junio,Enero~Diciembre,*
+Marzo,Enero~Marzo,Enero~Junio,Enero~Diciembre,*
+Abril,Abril~Junio,Enero~Junio,Enero~Diciembre,*
+Mayo,Abril~Junio,Enero~Junio,Enero~Diciembre,*
+Junio,Abril~Junio,Enero~Junio,Enero~Diciembre,*
+Julio,Julio~Septiembre,Julio~Diciembre,Enero~Diciembre,*
+Agosto,Julio~Septiembre,Julio~Diciembre,Enero~Diciembre,*
+Septiembre,Julio~Septiembre,Julio~Diciembre,Enero~Diciembre,*
+Octubre,Octubre~Diciembre,Julio~Diciembre,Enero~Diciembre,*
+Noviembre,Octubre~Diciembre,Julio~Diciembre,Enero~Diciembre,*
+Diciembre,Octubre~Diciembre,Julio~Diciembre,Enero~Diciembre,*
+99,No-Aplica,No-Aplica,No-Aplica,*
